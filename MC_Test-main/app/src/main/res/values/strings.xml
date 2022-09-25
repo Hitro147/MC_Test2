@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MC_Test2</string>
+
+    <string-array name="category_list">
+        <item>Abc</item>
+        <item>xyz</item>
+        <item>zzz</item>
+        <item>pqrst</item>
+        <item>ertgf</item>
+    </string-array>
+
+</resources>
