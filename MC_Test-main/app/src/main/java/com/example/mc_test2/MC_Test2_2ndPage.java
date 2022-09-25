@@ -45,7 +45,7 @@ public class MC_Test2_2ndPage extends AppCompatActivity {
 
     public static final MediaType JSON = MediaType.parse("application/json");
 
-    private String url = "http://" + "192.168.1.3" + ":" + 5000 + "/upload";
+    private String url = "http://" + "10.5.0.2" + ":" + 8080 + "/upload";
     private String postBodyString;
     private MediaType mediaType;
     private RequestBody requestBody;
